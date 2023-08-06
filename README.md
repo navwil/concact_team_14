@@ -10,3 +10,7 @@ Team Members:
 
 Team Name : concat team 14.
 
+Libraries Used: pygame, sys,random
+
+How to configure and Run: run the "main.py" file. before running pygame must be installed using pip install pygame.
+
